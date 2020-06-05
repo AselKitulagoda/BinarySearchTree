@@ -8,7 +8,7 @@
     * The left and right subtree each must also be a binary search tree.
 * The above properties of Binary Search Tree provide an ordering among keys so that the operations like search, minimum and maximum can be done fast. 
 
-
+![BST explanation](bsearch.png "Binary Search Tree")
 ### Pre-requisities 
 * You need to have ***GCC*** installed from [here](https://gcc.gnu.org/install/).
 
