@@ -140,7 +140,7 @@ assert(height(l) == 2);
 }
 
 //main function
-int bsearchMain(){
+int main(){
   testInsert();
   testNewNode();
   testlookup();
