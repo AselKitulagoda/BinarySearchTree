@@ -6,6 +6,7 @@
     * The left subtree of a node contains only nodes with keys lesser than the node’s key.
     * The right subtree of a node contains only nodes with keys greater than the node’s key.
     * The left and right subtree each must also be a binary search tree.
+* The above properties of Binary Search Tree provide an ordering among keys so that the operations like search, minimum and maximum can be done fast. 
 
 
 ### Pre-requisities 
